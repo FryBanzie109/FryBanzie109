@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FryBanzie109
 - 👀 I’m interested in coding experience 
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ?
+- 💞️ I’m looking to collaborate on, idk man i never do that
 - 📫 How to reach me ...i don't know
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i have no idea 
