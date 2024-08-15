@@ -2,9 +2,6 @@
 
 <html>
 
-<h8>
-Mitzukara Shinpei (clovers)
-</h8>
   <h3>
    hi, i am
   </h3>
@@ -12,5 +9,8 @@ Mitzukara Shinpei (clovers)
     mangaka (manga artist)
   </h1>
 
+<h8>
+Mitzukara Shinpei (clovers)
+</h8>
 
 </html>
