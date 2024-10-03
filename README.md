@@ -1,7 +1,7 @@
 ### Hi 👋
 
-<h1>Im Mangaka</h1>
-<h4>Mitzuuu</h4>
+<h1>im mangaka</h1>
+<h4>Mitzuu</h4>
 <div align = "center">
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FryBanzie109&hide=contribs&show_icons=true" />
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FryBanzie109&size_weight=0&count_weight=1&hide=html,css,scss&layout=compact&langs_count=6" />
