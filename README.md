@@ -23,7 +23,7 @@
 </p>
 
 <p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=U1805&show_icons=true&locale=en&layout=compact&line_height=0" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=FryBanzie109&show_icons=true&locale=en&layout=compact&line_height=0" />
 </p>
 
 <picture>
