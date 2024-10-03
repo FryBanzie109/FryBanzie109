@@ -35,3 +35,5 @@
 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/U1805/U1805/output/github-contribution-grid-snake.svg">
 </picture>
+
+### the grid snake not mine btw, just decoration
