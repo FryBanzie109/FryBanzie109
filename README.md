@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FryBanzie109-hegab&label=Profile%20views&color=0e75b6&style=flat" alt="FryBanzie109" /> </p>
 
-<img align="right" alt="gif" width="800" src="https://giphy.com/gifs/head-hero-boku-naiatn5LxTOsU">
+<img align="right" alt="gif" width="800" src="">
 
 <div align = "center">
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FryBanzie109&hide=contribs&show_icons=true" />
