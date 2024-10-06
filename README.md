@@ -32,5 +32,5 @@
 </p>
 
 <div>
-<img src="https://pin.it/6IDhDYQO3">
+<img src="https://pin.it/6IDhDYQO3" alt="">
 </div>
