@@ -30,3 +30,5 @@
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=FryBanzie109&show_icons=true&locale=en&layout=compact&line_height=0" />
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FryBanzie109-hegab&label=Profile%20views&color=0e75b6&style=flat" alt="shehab-hegab" /> </p>
