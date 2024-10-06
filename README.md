@@ -30,7 +30,3 @@
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=FryBanzie109&show_icons=true&locale=en&layout=compact&line_height=0" />
 </p>
-
-<div>
-<img src="https://pin.it/6IDhDYQO3" alt="">
-</div>
