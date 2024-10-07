@@ -6,9 +6,7 @@
 
   <img alt="playing now" src="https://spotify-now-playing-svg.vercel.app/api" width="460" height="60">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=a54fe2pnapk5pbzbh0on5gczd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.FryBanzie109.com/api/view?uid=a54fe2pnapk5pbzbh0on5gczd&redirect=true)
-
-[![Spotify](https://img.shields.io/badge/Spotify-ZGQ-666666?style=for-the-badge&logo=Spotify&logoColor=&labelColor=000000)](https://open.spotify.com/user/FryBanzie109)
+[![Spotify](https://img.shields.io/badge/Spotify-FryBanzie109-666666?style=for-the-badge&logo=Spotify&logoColor=&labelColor=000000)](https://open.spotify.com/user/FryBanzie109)
 
 [![My Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/frybanzie "Mitzukara on Instagram")
 
