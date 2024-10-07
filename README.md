@@ -6,7 +6,7 @@
 
   <img alt="playing now" src="https://spotify-now-playing-svg.vercel.app/api" width="460" height="60">
 
-[![Spotify](https://img.shields.io/badge/Spotify-FryBanzie109-666666?style=for-the-badge&logo=Spotify&logoColor=&labelColor=000000)](https://open.spotify.com/user/FryBanzie109)
+[![Spotify](https://img.shields.io/badge/Spotify-Mitzūkara-666666?style=for-the-badge&logo=Spotify&logoColor=&labelColor=000000)](https://open.spotify.com/user/Mitzūkara)
 
 [![My Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/frybanzie "Mitzukara on Instagram")
 
