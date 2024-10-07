@@ -4,6 +4,8 @@
 
 ### <h4>Mitzuu</h4>
 
+  <img alt="playing now" src="https://spotify-now-playing-svg.vercel.app/api" width="460" height="60">
+
 [![My Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/frybanzie "Mitzukara on Instagram")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FryBanzie109-hegab&label=Profile%20views&color=0e75b6&style=flat" alt="FryBanzie109" /> </p>
