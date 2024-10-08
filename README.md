@@ -6,7 +6,7 @@
 
   <img alt="playing now" src="https://spotify-now-playing-svg.vercel.app/api" width="460" height="60">
 
-<img src= "https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif">
+<img src= "https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif"> width= "45%"
 
 [![Spotify](https://img.shields.io/badge/Spotify-Mitzz~-666666?style=for-the-badge&logo=Spotify&logoColor=&labelColor=000000)](https://open.spotify.com/user/31lhmij4v7kho4drnj5ciry2nfwm?si=1BajV8OER_KD5IrJzL5nyQ)
 
