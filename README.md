@@ -1,6 +1,7 @@
 ### Hi 👋
 
 ### <h1>im mangaka</h1>
+### <h6>(not yet)</h6>
 
 ### <h4>Mitzuu</h4>
 
