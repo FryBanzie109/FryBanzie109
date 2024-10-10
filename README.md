@@ -56,3 +56,5 @@
 <p align = "center">
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=FryBanzie109&show_icons=true&locale=en&layout=compact&line_height=0" />
 </p>
+
+<img src= "https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif" width= "45%">
