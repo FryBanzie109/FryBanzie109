@@ -57,4 +57,4 @@
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=FryBanzie109&show_icons=true&locale=en&layout=compact&line_height=0" />
 </p>
 
-<img src= "https://cdn.discordapp.com/emojis/1216136943482704063.gif" width= "45%">
+<img src= "https://cdn.discordapp.com/emojis/1216136943482704063.gif" width= "50%">
