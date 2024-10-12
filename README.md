@@ -9,7 +9,7 @@
 
 <img src= "https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif" width= "45%">
 
-
+![](https://moe-counter.glitch.me/get/@FryBanzie10?theme=rule34)
 
 [![Spotify](https://img.shields.io/badge/Spotify-Mitzz~-666666?style=for-the-badge&logo=Spotify&logoColor=&labelColor=000000)](https://open.spotify.com/user/31lhmij4v7kho4drnj5ciry2nfwm?si=1BajV8OER_KD5IrJzL5nyQ)
 
@@ -17,7 +17,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=I'll_will_be_mangaka;i_mean_programmer🔥🔥)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FryBanzie109-hegab&label=Profile%20views&color=0e75b6&style=flat" alt="FryBanzie10" /> </p>
 
 <img align="right" alt="gif" width="800" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
