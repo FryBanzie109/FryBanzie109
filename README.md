@@ -58,5 +58,3 @@
 </p>
 
 <img src= "https://cdn.discordapp.com/emojis/1216136943482704063.gif" width= "45%">
-
-<img src= "https://cdn.discordapp.com/emojis/1216136943482704063.gif" width= "45%">
