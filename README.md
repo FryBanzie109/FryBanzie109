@@ -9,6 +9,8 @@
 
 <img src= "https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif" width= "45%">
 
+![](https://moe-counter.glitch.me/get/@FryBanzie109?theme=rule34)
+
 [![Spotify](https://img.shields.io/badge/Spotify-Mitzz~-666666?style=for-the-badge&logo=Spotify&logoColor=&labelColor=000000)](https://open.spotify.com/user/31lhmij4v7kho4drnj5ciry2nfwm?si=1BajV8OER_KD5IrJzL5nyQ)
 
 [![My Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/frybanzie "Mitzukara on Instagram")
