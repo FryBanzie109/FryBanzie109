@@ -22,7 +22,7 @@
 <img align="right" alt="gif" width="800" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <div align = "center">
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=FryBanzie109&hide=contribs&show_icons=true" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=FryBanzie109&show=contribs&show_icons=true" />
 
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FryBanzie109&size_weight=0&count_weight=1&hide=html,css,scss&layout=compact&langs_count=6" />
 </div>
