@@ -3,7 +3,7 @@
 ### <h1>im mangaka</h1>
 ### <h6>(not yet)</h6>
 
-### <h4>Mitzuu</h4>
+### <h4>Named Mitzuu</h4>
 
   <img alt="playing now" src="https://spotify-now-playing-svg.vercel.app/api" width="460" height="60">
 
