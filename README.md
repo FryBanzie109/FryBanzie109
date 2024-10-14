@@ -1,9 +1,7 @@
 ### Hi 👋
 
 ### <h1>I'm Mitzu...</h1>
-### <h4>Mangaka</h4>
-
-### <h6>(not yet)</h6>
+### <h4>will be Mangaka</h4>
 
   <img alt="playing now" src="https://spotify-now-playing-svg.vercel.app/api" width="460" height="60">
 
