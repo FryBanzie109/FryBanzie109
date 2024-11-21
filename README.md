@@ -55,6 +55,9 @@
 <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=FryBanzie109&show_icons=true&locale=en&layout=compact&line_height=0" />
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FryBanzie109&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FryBanzie109&theme=github_dark"></img>
+
 <img src= "https://cdn.discordapp.com/emojis/1216136943482704063.gif" width= "50%">
 
 ### Yeah
