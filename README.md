@@ -15,7 +15,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=悪霊退散;ICBM)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FryBanzie109-theme=dark&hegab&label=Profile%20views&color=0e75b6&style=flat" alt="FryBanzie10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FryBanzie109-hegab&label=Profile%20views&color=0e75b6&style=flat" alt="FryBanzie10" /> </p>
 
 <div align = "center">
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FryBanzie109&theme=dark&show=contribs&show_icons=true" />
