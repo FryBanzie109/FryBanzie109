@@ -46,13 +46,14 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 
 <img src="https://img.shields.io/badge/-JavaScript-563D7C?style=flat-square&logo=javascript"/>
+
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/>
 </p>
 
 <p align = "center">
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=FryBanzie109&show_icons=true&locale=en&layout=compact&line_height=0" />
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=FryBanzie109&theme=dark&show_icons=true&locale=en&layout=compact&line_height=0" />
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FryBanzie109&theme=dark&hide_border=true)](https://git.io/streak-stats)
