@@ -6,7 +6,7 @@
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564)](https://discord.com/users/1125978459303317564)
 
 <p align="center">
-  <img src="https://lanyard.kyrie25.me/api/1125978459303317564?useDisplayName=true&showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.5)&gradient=0F3CFF-35A6FF-4BFFFF&imgStyle=square&imgBorderRadius=15px" alt="Ritshu discord profile"/>
+  <img src="https://lanyard.kyrie25.me/api/1125978459303317564?useDisplayName=true&showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.5)&gradient=0F3CFF-35A6FF-4BFFFF&imgStyle=square&imgBorderRadius=15px" alt="fryb discord profile"/>
 </p>
 
 <img src= "https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif" width= "45%">
