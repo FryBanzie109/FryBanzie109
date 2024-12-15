@@ -3,7 +3,6 @@
 ### <h1>I'm Mitzu...</h1>
 ### <h4>Mangaka</h4>
 
-  <img alt="playing now" src="https://spotify-now-playing-svg.vercel.app/api" width="460" height="60">
 
 <img src= "https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif" width= "45%">
 
