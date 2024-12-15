@@ -5,6 +5,13 @@
 
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?useDisplayName=true&showBanner=animated&showBanner=true&waveColor=FF597B&waveSpotifyColor=FF597B)](https://discord.com/users/1125978459303317564)
 
+</div>
+<div align="center">
+        <a href="https://discord.com/users/1125978459303317564" >  
+                  <img src="https://lanyard.kyrie25.dev/api/1125978459303317564?imgStyle=square"  />  
+        </a>  
+</div>
+
 <img src= "https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif" width= "45%">
 
 ![](https://moe-counter.glitch.me/get/@FryBanzie10?theme=rule34)
