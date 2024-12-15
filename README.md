@@ -3,8 +3,6 @@
 ### <h1>I'm Mitzu...</h1>
 ### <h4>Mangaka</h4>
 
-  <img src="https://lanyard.kyrie25.me/api/1125978459303317564?useDisplayName=true&showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.5)&gradient=0F3CFF-35A6FF-4BFFFF&imgStyle=square&imgBorderRadius=15px" alt="FryB discord profile"/>
-
 
 <img src= "https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif" width= "45%">
 
