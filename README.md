@@ -52,6 +52,8 @@
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FryBanzie109&theme=tokyonight&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FryBanzie109&theme=github_dark"></img>
 
   [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FryBanzie109&theme=github)](https://github.com/FryBanzie109/github-readme-activity-graph)
