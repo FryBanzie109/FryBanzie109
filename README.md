@@ -52,10 +52,6 @@
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/>
 </p>
 
-<p align = "center">
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=FryBanzie109&theme=dark&show_icons=true&locale=en&layout=compact&line_height=0"/>
-</p>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FryBanzie109&theme=github_dark"></img>
 
   [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FryBanzie109&theme=github)](https://github.com/FryBanzie109/github-readme-activity-graph)
