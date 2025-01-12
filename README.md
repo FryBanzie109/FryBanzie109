@@ -14,6 +14,7 @@
 -
 -
 ### GITHUB CLOSED focused to be mangaka on 17 yo
+### i don't wanna be programmer anymore 
 -
 -
 -
