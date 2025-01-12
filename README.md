@@ -3,7 +3,8 @@
 ### <h1>I'm Mitzu...</h1>
 ### <h4>Mangaka</h4>
 
-[![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?useDisplayName=true&showBanner=transparent&waveColor=000000&waveSpotifyColor=FFA500)](https://discord.com/users/1125978459303317564)
+[![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?useDisplayName=true&showBanner=transparent&waveColor=000000&waveSpotifyColor=FFA500&imgStyle=square
+)](https://discord.com/users/1125978459303317564)
 
 <img src= "https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif" width= "45%">
 
