@@ -1,3 +1,12 @@
+
+
+
+
+### GITHUB CLOSED focused to be mangaka on 17 yo
+
+
+
+
 ### Hi 👋
 
 ### <h1>I'm Mitzu...</h1>
