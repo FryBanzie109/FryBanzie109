@@ -38,7 +38,7 @@
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?useDisplayName=true&showBanner=transparent&waveColor=000000&waveSpotifyColor=FFA500&imgStyle=square
 )](https://discord.com/users/1125978459303317564)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1125978459303317564?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1125978459303317564)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1125978459303317564?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Just%20wanna%20be%20yours...)](https://discord.com/users/1125978459303317564)
 
 <img src= "https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif" width= "45%">
 
