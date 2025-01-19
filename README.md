@@ -40,7 +40,7 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1125978459303317564?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Just%20wanna%20be%20yours...&bg=FFFF00)](https://discord.com/users/1125978459303317564)
 
-<img src= "https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif" width= "45%">
+<img src= "https://media3.giphy.com/media/wSKiXigK4zP9ONwz7T/giphy.gif" width= "45%">
 
 ![](https://moe-counter.glitch.me/get/@FryBanzie10?theme=rule34)
 
