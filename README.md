@@ -13,8 +13,9 @@
 -
 -
 -
-### GITHUB CLOSED focused to be mangaka on 17 yo
-### i don't wanna be programmer anymore 
+### GITHUB CLOSED
+### i don't wanna be programmer anymore...
+### 👽
 -
 -
 -
@@ -33,7 +34,7 @@
 ### Hi 👋
 
 ### <h1>I'm Mitzu...</h1>
-### <h4>Mangaka</h4>
+### <h4>Illustrator</h4>
 
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?useDisplayName=true&showBanner=transparent&waveColor=000000&waveSpotifyColor=FFA500&imgStyle=square
 )](https://discord.com/users/1125978459303317564)
