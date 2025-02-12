@@ -1,36 +1,6 @@
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
-### GITHUB CLOSED
-### i don't wanna be programmer anymore...
-### 👽
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+
+still highschool kid
+
 ### Hi 👋
 
 ### <h1>I'm Mitzu...</h1>
