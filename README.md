@@ -1,5 +1,5 @@
 
-###still highschool kid
+### still highschool kid
 
 ### Hi 👋
 
