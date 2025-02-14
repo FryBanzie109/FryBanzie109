@@ -1,6 +1,4 @@
 
-### still highschool kid
-
 ### Hi 👋
 
 ### <h1>I'm Mitzu...</h1>
