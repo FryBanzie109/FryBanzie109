@@ -7,7 +7,7 @@
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?useDisplayName=true&showBanner=transparent&waveColor=000000&waveSpotifyColor=FFA500&imgStyle=square
 )](https://discord.com/users/1125978459303317564)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1125978459303317564?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=“hitomishiri”20%sengen20%de20%nigeru20%ki20%ka20%BOY&bg=FFFF00)](https://discord.com/users/1125978459303317564)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1125978459303317564?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=“hitomishiri” sengen de nigeru ki ka BOY&bg=FFFF00)](https://discord.com/users/1125978459303317564)
 
 <img src= "https://media3.giphy.com/media/wSKiXigK4zP9ONwz7T/giphy.gif" width= "75%">
 
