@@ -1,7 +1,7 @@
 
 ### Hi 👋
 
-### <h1>I'm Alleana...</h1>
+### <h1>I'm Alleana Fujikawa...</h1>
 ### <h4>Illustrator</h4>
 
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?useDisplayName=true&showBanner=transparent&waveColor=000000&waveSpotifyColor=FFA500&imgStyle=square
