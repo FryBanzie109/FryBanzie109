@@ -7,6 +7,8 @@
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?useDisplayName=true&showBanner=transparent&waveColor=000000&waveSpotifyColor=FFA500&imgStyle=square
 )](https://discord.com/users/1125978459303317564)
 
+<img src= "https://shiptalkers.dev/compare?name=frybanzie109">
+
 <img src= "https://media3.giphy.com/media/wSKiXigK4zP9ONwz7T/giphy.gif" width= "75%">
 
 ![](https://moe-counter.glitch.me/get/@FryBanzie10?theme=rule34)
