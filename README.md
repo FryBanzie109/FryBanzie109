@@ -26,7 +26,7 @@
 </div>
 
 <p align="center">
-<h2 align="center">Technology Stack <img src="" width="50"></h2>
+<h2 align="center">Technology Stack <img src=""></h2>
 
 
 <p align="center">
