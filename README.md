@@ -26,7 +26,7 @@
 </div>
 
 <p align="center">
-<h2 align="center">Technology Stack <img src="https://giphy.com/gifs/BcZZaMtMBmakw.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://giphy.com/BcZZaMtMBmakw.gif" width="50"></h2>
 
 
 <p align="center">
