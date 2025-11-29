@@ -21,8 +21,7 @@ Hi 👋
 <div align = "center">
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=FryBanzie109&theme=dark&show=contribs&show_icons=true" />
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FryBanzie109&theme=dark&size_weight=0&count_weight=1&show=html,css,scss&layout=compact&langs_count=6" />
-</div>
+
 
 <p align="center">
 <h2 align="center">Technology Stack </h2>
