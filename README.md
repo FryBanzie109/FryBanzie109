@@ -2,7 +2,8 @@
 Hi 👋
 
 <h1>I'm Alleana...</h1>
-<h4>Illustrator</h4>
+<h4>Illustrator 29%</h4>
+I'm newbies
 
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?idleMessage=BITES%20MINE%20ALREADY&animatedDecoration=true&bg=800080&imgStyle=square&showBanner=animated&theme=dark&borderRadius=15px&imgBorderRadius=30px&clanbg=FFFF00&waveSpotifyColor=A9A9A9&bannerFilter=5%2025px)](https://discord.com/users/1125978459303317564)
 
