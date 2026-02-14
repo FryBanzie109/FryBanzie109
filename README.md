@@ -20,10 +20,6 @@ I'm newbies
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FryBanzie109-hegab&label=Profile%20views&color=0e75b6&style=flat" alt="FryBanzie10" /> </p>
 
 
-
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FryBanzie109&theme=dark&size_weight=0&count_weight=1&show=html,css,scss&layout=compact&langs_count=6" />
-</div>
-
 <p align="center">
 <h2 align="center">Technology Stack </h2>
 
