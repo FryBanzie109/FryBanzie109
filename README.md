@@ -8,7 +8,7 @@ Hi 👋
 
 <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pjYXh4cXVocjFvZjQzd3hjamJmcHNlOHphMGMwY2lzZWt6ZHdxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rWq6jZ0yNkMit0VfoW/giphy.gif" width= "40%">
 
-![](https://moe-counter.glitch.me/get/@FryBanzie10?theme=rule34)
+![](https://count.getloli.com/get/@FryBanzie10?theme=rule34)
 
 [![Spotify](https://img.shields.io/badge/Spotify-Mitzz~-666666?style=for-the-badge&logo=Spotify&logoColor=&labelColor=000000)](https://open.spotify.com/user/31lhmij4v7kho4drnj5ciry2nfwm?si=1BajV8OER_KD5IrJzL5nyQ)
 
