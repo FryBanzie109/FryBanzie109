@@ -1,6 +1,4 @@
 
-<img src="https://i.imgflip.com/1mj9oj.jpg">
-
 Hi 👋
 
 <h1>I'm Alleana...</h1>
