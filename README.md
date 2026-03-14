@@ -1,4 +1,4 @@
-<img src="https://i.imgflip.com/1mj9oj.jpg" width ="1000px">
+<img src="https://i.imgflip.com/1mj9oj.jpg" width = "1000px">
 
 Hi 👋
 
