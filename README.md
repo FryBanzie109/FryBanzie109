@@ -1,4 +1,3 @@
-<img src="https://i.imgflip.com/1mj9oj.jpg" width = "894px">
 
 Hi 👋
 
