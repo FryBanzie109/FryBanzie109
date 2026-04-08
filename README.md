@@ -6,17 +6,6 @@ Hi 👋
 
 [![Listen on Apple Music](https://img.shields.io/badge/Now_Playing-Rendezvous-red?style=for-the-badge&logo=apple-music)](https://music.apple.com/us/album/rendezvous/1652628334?i=1652628498)
 
-<div align="center">
-  <a href="https://music.apple.com/us/album/rendezvous/1652628334?i=1652628498">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/89/32/6e893246-8302-39f1-f09c-e7e220803c74/cover.jpg/400x400bb.jpg" width="200" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Rendezvous Album Art"/>
-    <br/>
-    <h3>🎵 Rendezvous</h3>
-    <p>Shikobi</p>
-    <img src="https://img.shields.io/badge/Listen%20on-Apple%20Music-FC3C44?style=for-the-badge&logo=apple-music&logoColor=white" />
-  </a>
-</div>
-
-
 
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?idleMessage=Wang%20Duoduo&animatedDecoration=true&bg=800080&imgStyle=square&showBanner=animated&theme=dark&borderRadius=15px&imgBorderRadius=30px&clanbg=FFFF00&waveSpotifyColor=A9A9A9&bannerFilter=5%2025px)](https://discord.com/users/1125978459303317564)
 
