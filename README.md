@@ -6,14 +6,20 @@ Hi 👋
 
 [![Listen on Apple Music](https://img.shields.io/badge/Now_Playing-Rendezvous-red?style=for-the-badge&logo=apple-music)](https://music.apple.com/us/album/rendezvous/1652628334?i=1652628498)
 
-<div align="center">
-  <a href="https://music.apple.com/us/album/rendezvous/1652628334?i=1652628498">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/89/32/6e893246-8302-39f1-f09c-e7e220803c74/cover.jpg/300x300bb.jpg" width="150" style="border-radius: 12px;"/>
-    <br/>
-    <b>Rendezvous</b><br/>
-    <img src="https://img.shields.io/badge/Listen%20on-Apple%20Music-red?style=flat-square&logo=apple-music" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://music.apple.com/us/album/rendezvous/1652628334?i=1652628498">
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/89/32/6e893246-8302-39f1-f09c-e7e220803c74/cover.jpg/200x200bb.jpg" width="100" style="border-radius: 10px;"/>
+      </a>
+    </td>
+    <td>
+      <strong>Now Playing</strong><br/>
+      <a href="https://music.apple.com/us/album/rendezvous/1652628334?i=1652628498">Rendezvous — Shikobi</a><br/>
+      <small>on Apple Music</small>
+    </td>
+  </tr>
+</table>
 
 
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?idleMessage=Wang%20Duoduo&animatedDecoration=true&bg=800080&imgStyle=square&showBanner=animated&theme=dark&borderRadius=15px&imgBorderRadius=30px&clanbg=FFFF00&waveSpotifyColor=A9A9A9&bannerFilter=5%2025px)](https://discord.com/users/1125978459303317564)
