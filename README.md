@@ -4,7 +4,7 @@ Hi 👋
 <h1>I'm Alleana...</h1>
 <h4>Illustrator</h4>
 
-[![Listen on Apple Music](https://img.shields.io/badge/Now_Playing-Rendezvous-red?style=for-the-badge&logo=apple-music)](https://music.apple.com/us/album/rendezvous/1652628334?i=1652628498)
+[![Listen on Apple Music](https://img.shields.io/badge/apple-music-Rendezvous-red?style=for-the-badge&logo=apple-music)](https://music.apple.com/us/album/rendezvous/1652628334?i=1652628498)
 
 
 
