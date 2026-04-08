@@ -4,6 +4,8 @@ Hi 👋
 <h1>I'm Alleana...</h1>
 <h4>Illustrator</h4>
 
+<iframe height="175" width="100%" title="Media player" src="https://embed.music.apple.com/us/album/rendezvous/1652628334?i=1652628498&amp;itscg=30200&amp;itsct=music_box_player&amp;ls=1&amp;app=music&amp;mttnsubad=1652628498&amp;theme=light" id="embedPlayer" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="border: 0px; border-radius: 12px; width: 100%; height: 175px; max-width: 660px;"></iframe>
+
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?idleMessage=Wang%20Duoduo&animatedDecoration=true&bg=800080&imgStyle=square&showBanner=animated&theme=dark&borderRadius=15px&imgBorderRadius=30px&clanbg=FFFF00&waveSpotifyColor=A9A9A9&bannerFilter=5%2025px)](https://discord.com/users/1125978459303317564)
 
 <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pjYXh4cXVocjFvZjQzd3hjamJmcHNlOHphMGMwY2lzZWt6ZHdxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rWq6jZ0yNkMit0VfoW/giphy.gif" width= "40%">
