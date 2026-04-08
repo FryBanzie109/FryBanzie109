@@ -4,8 +4,6 @@ Hi 👋
 <h1>I'm Alleana...</h1>
 <h4>Illustrator</h4>
 
-[![Listen on Apple Music](https://img.shields.io/badge/Now_Playing-Rendezvous-red?style=for-the-badge&logo=apple-music)](https://music.apple.com/us/album/rendezvous/1652628334?i=1652628498)
-
 
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?idleMessage=Wang%20Duoduo&animatedDecoration=true&bg=800080&imgStyle=square&showBanner=animated&theme=dark&borderRadius=15px&imgBorderRadius=30px&clanbg=FFFF00&waveSpotifyColor=A9A9A9&bannerFilter=5%2025px)](https://discord.com/users/1125978459303317564)
 
