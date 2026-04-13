@@ -54,8 +54,16 @@ Hi 👋
   </a>
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FryBanzie109&theme=github_dark"></img>
+<div align="center">
 
-  [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FryBanzie109&theme=github)](https://github.com/FryBanzie109/github-readme-activity-graph)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FryBanzie109&theme=github_dark" />
 
-<img src= "https://cdn.discordapp.com/emojis/1216136943482704063.gif" width= "50%">
+<br/>
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FryBanzie109&theme=github)](https://github.com/FryBanzie109/github-readme-activity-graph)
+
+<br/>
+
+<img src="https://cdn.discordapp.com/emojis/1216136943482704063.gif" width="50%" />
+
+</div>
