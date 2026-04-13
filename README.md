@@ -48,12 +48,6 @@ Hi 👋
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/>
 </p>
 
-<p align="center">
-  <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/frybanzie109?cardType=level&theme=github&fontFamily=Comic%20Relief&preferLogin=false&Points.Commits=1.1&Points.Followers=1.6&Background=301934&Ring=FFFF00&Text=FFFFFF&Title=6A5ACDCD&borderRadius=5&Border=301934" alt="My Awesome Stats">
-  </a>
-</p>
-
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FryBanzie109&theme=github_dark" />
