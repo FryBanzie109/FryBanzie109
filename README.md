@@ -54,8 +54,6 @@ Hi 👋
   </a>
 </p>
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github&fontFamily=Comic%20Relief&preferLogin=false&Points.Commits=1.1&Points.Followers=1.6&Background=301934&Ring=FFFF00&Text=FFFFFF&Title=6A5ACDCD&borderRadius=5&Border=301934">    <img  alt="frybanzie109's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/frybanzie109?cardType=level&theme=github&fontFamily=Comic%20Relief&preferLogin=false&Points.Commits=1.1&Points.Followers=1.6&Background=301934&Ring=FFFF00&Text=FFFFFF&Title=6A5ACDCD&borderRadius=5&Border=301934" />  </a>
-
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FryBanzie109&theme=github_dark" />
