@@ -60,5 +60,3 @@ Hi 👋
 
 <img src="https://cdn.discordapp.com/emojis/1216136943482704063.gif" width="50%" />
 </div>
-
-![](https://static.wikia.nocookie.net/projectsekai/images/4/4f/My_All_In_This_Sound_T.png/revision/latest?cb=20250330081142)
