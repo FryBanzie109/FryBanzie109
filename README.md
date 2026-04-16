@@ -59,5 +59,6 @@ Hi 👋
 <br/>
 
 <img src="https://cdn.discordapp.com/emojis/1216136943482704063.gif" width="50%" />
-
 </div>
+
+https://projectsekai.fandom.com/wiki/Hatsune_Miku/Cards?file=My_All_In_This_Sound_T.png
