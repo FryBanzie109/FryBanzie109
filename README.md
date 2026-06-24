@@ -7,6 +7,8 @@ Hi 👋
 
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?idleMessage=Wang%20Duoduo&animatedDecoration=true&bg=800080&imgStyle=square&showBanner=animated&theme=dark&borderRadius=15px&imgBorderRadius=30px&clanbg=FFFF00&waveSpotifyColor=A9A9A9&bannerFilter=5%2025px)](https://discord.com/users/1125978459303317564)
 
+[![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?forceGradient=true&showDisplayName=false&animatedDecoration=true&hideDecoration=false&hideClan=false&hideStatus=false&hideDiscrim=true&hideActivity=false&waveSpotifyColor=transparent&waveColor=transparent&gradient=FFCA00&bg=000A8D)](https://discord.com/users/1125978459303317564)
+
 <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pjYXh4cXVocjFvZjQzd3hjamJmcHNlOHphMGMwY2lzZWt6ZHdxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rWq6jZ0yNkMit0VfoW/giphy.gif" width= "40%">
 
 ![](https://count.getloli.com/get/@FryBanzie10?theme=rule34)
