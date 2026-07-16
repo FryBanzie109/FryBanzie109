@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Screenshot from 2026-07-16 22-22-37" src="https://github.com/user-attachments/assets/0acf4da3-509c-4d5b-abd7-4868b16577cb" />
+<img width="1366" height="768" alt="Screenshot from 2026-07-16 22-27-45" src="https://github.com/user-attachments/assets/24a0c578-ad57-4db1-be5f-431129883bc9" />
 
 <p align='center'>
   Hi 👋
