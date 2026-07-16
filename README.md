@@ -1,7 +1,8 @@
 <p align='center'>
-Hi 👋
-<h1>I'm Alleana...</h1>
-<h4>Illustrator</h4>
+  Hi 👋
+  
+  <h1>I'm Alleana...</h1>
+  <h4>Illustrator</h4>
 </p>
 
 <p align="center">
