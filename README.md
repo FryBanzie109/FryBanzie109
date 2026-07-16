@@ -1,9 +1,8 @@
 <p align='center'>
   Hi 👋
-  
-  <h1>I'm Alleana...</h1>
-  <h4>Illustrator</h4>
 </p>
+<h1 align="center">I'm Alleana...</h1>
+<h4 align="center">Illustrator</h4>
 
 <p align="center">
   <a href="https://discord.com/users/1125978459303317564">
