@@ -10,17 +10,30 @@
   </a>
 </p>
 
-<img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pjYXh4cXVocjFvZjQzd3hjamJmcHNlOHphMGMwY2lzZWt6ZHdxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rWq6jZ0yNkMit0VfoW/giphy.gif" width= "40%">
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pjYXh4cXVocjFvZjQzd3hjamJmcHNlOHphMGMwY2lzZWt6ZHdxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rWq6jZ0yNkMit0VfoW/giphy.gif" width="40%">
+</p>
 
-![](https://count.getloli.com/get/@FryBanzie10?theme=rule34)
+<p align="center">
+  <img src="https://count.getloli.com/get/@FryBanzie10?theme=rule34" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FryBanzie109-hegab&label=Profile%20views&color=0e75b6&style=flat" alt="FryBanzie10" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FryBanzie109-hegab&label=Profile%20views&color=0e75b6&style=flat" alt="FryBanzie10" />
+</p>
 
-[![Spotify](https://img.shields.io/badge/Spotify-Mitzz~-666666?style=for-the-badge&logo=Spotify&logoColor=&labelColor=000000)](https://open.spotify.com/user/31lhmij4v7kho4drnj5ciry2nfwm?si=1BajV8OER_KD5IrJzL5nyQ)
+<p align="center">
+  <a href="https://open.spotify.com/user/31lhmij4v7kho4drnj5ciry2nfwm?si=1BajV8OER_KD5IrJzL5nyQ">
+    <img src="https://img.shields.io/badge/Spotify-Mitzz~-666666?style=for-the-badge&logo=Spotify&logoColor=&labelColor=000000" alt="Spotify" />
+  </a>
+  <a href="https://instagram.com/frybanzie" title="Mitzukara on Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=fff" alt="My Instagram" />
+  </a>
+</p>
 
-[![My Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/frybanzie "Mitzukara on Instagram")
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=悪霊退散;ICBM)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=%E6%82%AA%E9%9C%8A%E9%80%80%E6%95%A3;ICBM" alt="Typing SVG" />
+</p>
 
 <p align="center">
 <h2 align="center">Technology Stack </h2>
