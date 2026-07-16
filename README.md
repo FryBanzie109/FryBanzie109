@@ -49,8 +49,6 @@ Hi 👋
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FryBanzie109&theme=github_dark" />
-
 <br/>
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FryBanzie109&theme=github)](https://github.com/FryBanzie109/github-readme-activity-graph)
