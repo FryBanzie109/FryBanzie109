@@ -1,6 +1,6 @@
 <img width="1366" height="768" alt="Screenshot from 2026-07-16 18-49-09" src="https://github.com/user-attachments/assets/91c6ac32-35f4-4c4e-8f8f-a4aa88485b09" />
+
 <p align='center'>
-  
   Hi 👋
 </p>
 <h1 align="center">I'm Alleana...</h1>
