@@ -6,6 +6,12 @@ Hi 👋
 
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1125978459303317564?forceGradient=true&showDisplayName=false&animatedDecoration=true&hideDecoration=false&hideClan=false&hideStatus=false&hideDiscrim=true&hideActivity=false&waveSpotifyColor=transparent&waveColor=transparent&gradient=FFCA00&bg=transparent&showBanner=animated&imgStyle=circle)](https://discord.com/users/1125978459303317564)
 
+<p align="center">
+  <a href="https://discord.com/users/1125978459303317564">
+    <img src="https://lanyard.kyrie25.dev/api/1125978459303317564?forceGradient=true&showDisplayName=false&animatedDecoration=true&hideDecoration=false&hideClan=false&hideStatus=false&hideDiscrim=true&hideActivity=false&waveSpotifyColor=transparent&waveColor=transparent&gradient=FFCA00&bg=transparent&showBanner=animated&imgStyle=circle" alt="Discord Presence" />
+  </a>
+</p>
+
 <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pjYXh4cXVocjFvZjQzd3hjamJmcHNlOHphMGMwY2lzZWt6ZHdxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rWq6jZ0yNkMit0VfoW/giphy.gif" width= "40%">
 
 ![](https://count.getloli.com/get/@FryBanzie10?theme=rule34)
