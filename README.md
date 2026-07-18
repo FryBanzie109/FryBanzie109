@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pjYXh4cXVocjFvZjQzd3hjamJmcHNlOHphMGMwY2lzZWt6ZHdxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rWq6jZ0yNkMit0VfoW/giphy.gif" width="40%">
-</p>
-
-<p align="center">
   <img src="https://count.getloli.com/get/@FryBanzie10?theme=rule34" />
 </p>
 
