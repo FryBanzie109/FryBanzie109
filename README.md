@@ -1,6 +1,3 @@
-
-https://github.com/user-attachments/assets/2429235f-3550-4e77-8b37-ef57cef23413
-
 <p align='center'>
   Hi 👋
 </p>
