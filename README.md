@@ -17,11 +17,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FryBanzie109-hegab&label=Profile%20views&color=0e75b6&style=flat" alt="FryBanzie10" />
 </p>
-
 <p align="center">
-  <a href="https://open.spotify.com/user/31lhmij4v7kho4drnj5ciry2nfwm?si=1BajV8OER_KD5IrJzL5nyQ">
-    <img src="https://img.shields.io/badge/Spotify-Mitzz~-666666?style=for-the-badge&logo=Spotify&logoColor=&labelColor=000000" alt="Spotify" />
-  </a>
   <a href="https://instagram.com/frybanzie" title="Mitzukara on Instagram">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=fff" alt="My Instagram" />
   </a>
