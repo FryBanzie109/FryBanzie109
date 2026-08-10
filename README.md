@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1125978459303317564">
-    <img src="https://lanyard.kyrie25.dev/api/1125978459303317564?forceGradient=true&showDisplayName=false&animatedDecoration=true&hideDecoration=false&hideClan=false&hideStatus=false&hideDiscrim=true&hideActivity=false&waveSpotifyColor=transparent&waveColor=transparent&gradient=FFCA00&bg=transparent&showBanner=animated&imgStyle=circle" alt="Discord Presence" />
+    <img src="https://lanyard.kyrie25.dev/api/1125978459303317564?forceGradient=true&showDisplayName=false&animatedDecoration=true&hideDecoration=false&hideClan=false&hideStatus=false&hideDiscrim=true&hideActivity=false&waveSpotifyColor=transparent&waveColor=transparent&gradient=FFCA00&bg=transparent&showBanner=animated&imgStyle=circle" alt="Discord Presence"/>
   </a>
 </p>
 
