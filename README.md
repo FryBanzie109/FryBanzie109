@@ -1,7 +1,6 @@
 <p align='center'>
   Hi 👋
 </p>
-[my-september.custom_score.mp3](https://github.com/user-attachments/files/31118688/my-september.custom_score.mp3)
 <h1 align="center">I'm Fal...</h1>
 <h4 align="center">Illustrator</h4>
 
