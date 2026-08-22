@@ -66,5 +66,4 @@
 
 <img src="https://cdn.discordapp.com/emojis/1216136943482704063.gif" width="50%" />
 
-<a href="https://info.flagcounter.com/b2Qn"><img src="https://s01.flagcounter.com/map/b2Qn/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 </div>
