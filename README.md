@@ -72,4 +72,6 @@
 
 </div>
 
-<h6>justice for ## who #### at the hands of my a###ive par###s</6>
+<h6>justice for m# who d### at the hands of my a###ive par###s
+
+I'll wait until they're k### me or else, I k### myself</6>
