@@ -74,4 +74,4 @@
 
 <h6>justice for m# who d### at the hands of my a###ive par###s
 
-I'll wait until they're k### me or else, I k### myself</6>
+I'll wait until they're k### me or else, I k### myself
