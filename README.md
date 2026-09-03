@@ -58,12 +58,6 @@
 
 <div align="center">
 
-<br/>
-
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FryBanzie109&theme=github)](https://github.com/FryBanzie109/github-readme-activity-graph)
-
-<br/>
-
 <img src="https://cdn.discordapp.com/emojis/1216136943482704063.gif" width="50%" />
 
 ### nothin
