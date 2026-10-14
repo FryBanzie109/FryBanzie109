@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@FryBanzie10?theme=rule34" />
+  <img src="https://count.getloli.com/get/@FryBanzie109?theme=rule34" />
 </p>
 
 <p align="center">
