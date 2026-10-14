@@ -11,11 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@FryBanzie109?theme=rule34" />
+  <img src="https://count.getloli.com/@FryBanzie?theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FryBanzie109-hegab&label=Profile%20views&color=0e75b6&style=flat" alt="FryBanzie10" />
 </p>
 <p align="center">
   <a href="https://instagram.com/frybanzie" title="Mitzukara on Instagram">
